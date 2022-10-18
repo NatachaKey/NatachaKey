@@ -19,9 +19,10 @@
 ## Check out my deployed projects 👇
 [Portfolio Natacha Key](https://portfolio-natacha-key.glitch.me/)
 
-## Contact me or follow me:
+## Contact me:
 
-[<img src=’https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt=’linkedin’ height=’40'>]((https://www.linkedin.com/in/natalia-klyueva-997362109/) 
+![on LinkedIN] (https://www.linkedin.com/in/natalia-klyueva-997362109/)
+
 
 
 <!---
