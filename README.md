@@ -16,7 +16,7 @@
 ![alt text](https://img.shields.io/badge/-GSAP-darkgreen "Logo Title Text 8")
 
 
-# Check out my deployed projects
+# Check out my deployed projects 👇
 [Portfolio Natacha Key](https://portfolio-natacha-key.glitch.me/)
 <!---
 NatachaKey/NatachaKey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
