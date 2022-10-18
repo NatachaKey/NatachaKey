@@ -5,23 +5,7 @@
 - 📫 I speak English, Spanish and Russian.
 
 
-##Skills and Experience:
 
-<p>
-
-<img alt=”JavaScript” src=”https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat" />
-
-<img alt=”React” src=”https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat" />
-
-<img alt=”Redux” src=”https://img.shields.io/badge/Redux-764BC?logo=redux&logoColor=white&style=flat" />
-
-<img alt=”HTML5” src=”https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat" />
-
-<img alt=”CSS3” src=”https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=flat" />
-
-<img alt=”Bootstrap” src=”https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat" />
-
-</p>
 <!---
 NatachaKey/NatachaKey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
