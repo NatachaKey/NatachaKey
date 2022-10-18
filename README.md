@@ -16,8 +16,14 @@
 ![alt text](https://img.shields.io/badge/-GSAP-darkgreen "Logo Title Text 8")
 
 
-# Check out my deployed projects 👇
+## Check out my deployed projects 👇
 [Portfolio Natacha Key](https://portfolio-natacha-key.glitch.me/)
+
+## Contact me or follow me:
+
+
+[<img src=’https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt=’linkedin’ height=’50'>]((https://www.linkedin.com/in/natalia-klyueva-997362109/)) 
+
 <!---
 NatachaKey/NatachaKey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
