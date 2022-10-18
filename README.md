@@ -1,4 +1,4 @@
-#👋 Hi, I’m @NatachaKey
+###👋 Hi, I’m @NatachaKey
 - 👀 I’m interested in working as a full-stack/ front-end developer.
 - 🌱 I’m currently learning Redux, Node.js.
 - 💞️ Great team-worker, passionate about software engineering.
