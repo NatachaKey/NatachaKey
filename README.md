@@ -21,7 +21,7 @@
 
 ## Contact me:
 
-![on LinkedIN] (https://www.linkedin.com/in/natalia-klyueva-997362109/)
+[on LinkedIN] (https://www.linkedin.com/in/natalia-klyueva-997362109/)
 
 
 
