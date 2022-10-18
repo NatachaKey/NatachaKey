@@ -19,7 +19,7 @@
 ## Check out my deployed projects 👇
 [Portfolio Natacha Key](https://portfolio-natacha-key.glitch.me/)
 
-## Contact me 📨
+## Contact me 📩
 
 [on LinkedIN](https://www.linkedin.com/in/natalia-klyueva-997362109/)
 
