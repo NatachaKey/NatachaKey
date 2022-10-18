@@ -5,6 +5,7 @@
 - 📫 I speak English, Spanish and Russian.
 
 # Skills and technologies
+![alt text](https://img.shields.io/badge/-Node.js-success "Logo Title Text 0")
 ![alt text](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat "Logo Title Text 1")
 ![alt text](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat "Logo Title Text 2")
 ![alt text](https://img.shields.io/badge/Redux-764BC?logo=redux&logoColor=white&style=flat "Logo Title Text 3")
