@@ -21,8 +21,8 @@
 
 ## Contact me or follow me:
 
+[<img src=’https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt=’linkedin’ height=’40'>]((https://www.linkedin.com/in/natalia-klyueva-997362109/) 
 
-![<img src=’https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt=’linkedin’ height=’50'>]((https://www.linkedin.com/in/natalia-klyueva-997362109/)) 
 
 <!---
 NatachaKey/NatachaKey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
