@@ -4,11 +4,13 @@
 - 💞️ Great team-worker, passionate about software engineering.
 - 📫 I speak English, Spanish and Russian.
 
-# SKILLS AND EXPERIENCE
+# Skills and technologies
 ![alt text](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat "Logo Title Text 1")
 ![alt text](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat "Logo Title Text 2")
-![alt text](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat "Logo Title Text 1")
-![alt text](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat "Logo Title Text 1")
+![alt text](https://img.shields.io/badge/Redux-764BC?logo=redux&logoColor=white&style=flat "Logo Title Text 3")
+![alt text](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat "Logo Title Text 1")
+![alt text](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=flat "Logo Title Text 1")
+![alt text](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat "Logo Title Text 1")
 
 <!---
 NatachaKey/NatachaKey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
