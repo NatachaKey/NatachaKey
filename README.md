@@ -1,10 +1,10 @@
-# 👋 Hi, I’m @NatachaKey
+## 👋 Hi, I’m @NatachaKey
 - 👀 I’m interested in working as a full-stack/ front-end developer.
 - 🌱 I’m currently learning Redux, Node.js.
 - 💞️ Great team-worker, passionate about software engineering.
 - 📫 I speak English, Spanish and Russian.
 
-# Skills and technologies
+## Skills and technologies
 ![alt text](https://img.shields.io/badge/-Node.js-success "Logo Title Text 0")
 ![alt text](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat "Logo Title Text 1")
 ![alt text](https://img.shields.io/badge/Redux-764abc?logo=redux&logoColor=white&style=flat "Logo Title Text 3")
