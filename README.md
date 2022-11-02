@@ -4,7 +4,7 @@
 - 💞️ Great team-worker, native problem-solver, passionate about software engineering.
 - 📫 I speak English, Spanish and Russian.
 
-## My stack
+## My stack:
 ![alt text](https://img.shields.io/badge/-Node.js-success "Logo Title Text 0")
 ![alt text](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat "Logo Title Text 1")
 ![alt text](https://img.shields.io/badge/Redux-764abc?logo=redux&logoColor=white&style=flat "Logo Title Text 3")
