@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning Redux, Node.js.
 - 💞️ Great team-worker, native problem-solver, passionate about software engineering.
 - 📫 I speak English, Spanish and Russian.
-❤️[![](https://visitcount.itsvg.in/api?id=NatachaKey&label=My%20GitHub%20guests&color=11&icon=7&pretty=true)](https://visitcount.itsvg.in)
+
+## [![](https://visitcount.itsvg.in/api?id=NatachaKey&label=My%20GitHub%20guests&color=11&icon=7&pretty=true)](https://visitcount.itsvg.in)
 ## My stack:
 ![alt text](https://img.shields.io/badge/-Node.js-success "Logo Title Text 0")
 ![alt text](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat "Logo Title Text 1")
