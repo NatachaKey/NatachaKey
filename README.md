@@ -25,7 +25,8 @@
 
 [on LinkedIN](https://www.linkedin.com/in/natalia-klyueva-997362109/)
 
-
+## Me on CodeWars 🥊
+https://www.codewars.com/users/natachacodes
 
 <!---
 NatachaKey/NatachaKey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
