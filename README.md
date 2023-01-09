@@ -21,12 +21,12 @@
 ## Check out my deployed projects 👇
 [Portfolio Natacha Key](https://portfolio-natacha-key.glitch.me/)
 
+## My page on CodeWars 🥊
+[CodeWars](https://www.codewars.com/users/natachacodes)
+
 ## Contact me 📩
 
 [on LinkedIn](https://www.linkedin.com/in/natalia-klyueva-997362109/)
-
-## My page on CodeWars 🥊
-[CodeWars](https://www.codewars.com/users/natachacodes)
 
 <!---
 NatachaKey/NatachaKey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
