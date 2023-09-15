@@ -8,7 +8,7 @@
 
 ## My stack:
 ![alt text](https://img.shields.io/badge/-Node.js-success "Logo Title Text 0")
-![alt text](https://img.shields.io/badge/-Node.js-success "Logo Title Text 0](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge")
+![alt text](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
 
 ![alt text](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat "Logo Title Text 1")
