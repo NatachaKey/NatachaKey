@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m @NatachaKey
 - 👀 I’m interested in working as a full-stack developer.
-- 🌱 I’m currently learning Redux, Node.js.
+- 🌱 I’m currently learning Redux, SQL, AWS.
 - 💞️ Great team-worker, native problem-solver, passionate about software engineering.
 - 📫 I speak English, Spanish and Russian.
 
